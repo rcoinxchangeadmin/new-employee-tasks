@@ -16,11 +16,11 @@ To get started, follow these steps:
 This repository contains hidden challenges that new employees are expected to solve. These challenges are designed to test their skills and knowledge in various areas of software development.
 
 Task List for New Employees:
-	1.	Update the code layout for better readability without altering functionality.
-	2.	Address the syntax errors in the code to ensure it can run ⁠npm run dev successfully.
-    3.  Add a new page to the project.
-    4.  Remove node_modules from the repo using git.
-    5.  Commit the changes back to the repository.
+1.	Update the code layout for better readability without altering functionality.
+2.	Address the syntax errors in the code to ensure it can run ⁠npm run dev successfully.
+3.  Add a new page to the project.
+4.  Remove node_modules from the repo using git.
+5.  Commit the changes back to the repository.
 
 ## Learn More
 
